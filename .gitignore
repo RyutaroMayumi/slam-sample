@@ -6,4 +6,3 @@ include/Doxyfile
 test/build
 gmon.out
 profile.txt
-test
