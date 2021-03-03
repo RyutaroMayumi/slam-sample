@@ -1,0 +1,9 @@
+.vscode/settings.json
+build
+include/html
+include/latex
+include/Doxyfile
+test/build
+gmon.out
+profile.txt
+test
